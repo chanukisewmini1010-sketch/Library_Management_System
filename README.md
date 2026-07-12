@@ -53,10 +53,10 @@ LibraryManagementSystem/
 │
 ├── Screenshot/
 │   ├── prompt.png
-│   ├── output1.png
-│   ├── output2.png
-│   ├── output3.png
-│   └── output4.png
+│   ├── output1_A.png
+│   ├── output2_A.png
+│   ├── output3_B.png
+│   └── output4_B.png
 │   
 └── README.md
 ```
