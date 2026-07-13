@@ -29,13 +29,13 @@ The Library Management System is a Java-based console application developed to m
 ```text
 LibraryManagementSystem/
 │
-├── src/(Version A)
+├── Version_A/
 │   ├── User.java
 │   ├── Book.java
 │   ├── Library.java
 │   └── LibraryManagemnetSystem.java
 │
-├── src1/(Version B)
+├── Version_B/
 │   ├── User.java
 │   ├── Book.java
 │   ├── Library.java
